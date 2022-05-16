@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "app_gopizza",
+    "slug": "app_gopizza",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "O aplicativo acessa suas fotos para permitir que você as compartilhe com seus amigos."
+        }
+      ]
+    ]
+  }
+}
